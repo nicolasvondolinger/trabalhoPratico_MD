@@ -1,1 +1,1 @@
-# trabalhoPratico_MD
+# Trabalho Pratico - Matemática Discreta
