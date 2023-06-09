@@ -116,7 +116,6 @@ Compilação e Execução do Código
             Nº de Regras: 2
             Regra: X XFFX+F+YFFY-F-XFFX
 	               Y YFFY-F-XFFX+F+YFFY
-                   Axioma: X
 
     Observações:
     

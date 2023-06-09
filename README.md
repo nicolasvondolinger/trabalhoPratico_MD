@@ -84,7 +84,6 @@ A seguir, seguem todas as entradas para as regras relativas aos fractais desenvo
 
 - Axioma: X
 - Nº de Regras: 2
-- Regras:
 - Regra 1: X XFYFX+F+YFXFY-F-XFYFX
 - Regra 2: Y YFXFY-F-XFYFX+F+YFXFY
 
@@ -98,9 +97,8 @@ A seguir, seguem todas as entradas para as regras relativas aos fractais desenvo
 
 - Axioma: F
 - Nº de Regras: 2
-- Regras:
-- Regra 1: F FXF
-- Regra 2: X F+F-F-F+F
+- Regra 1: X XFFX+F+YFFY-F-XFFX
+- Regra 2: Y YFFY-F-XFFX+F+YFFY
 
 Observações:
 - As regras já estão prontas para serem copiadas e coladas no terminal durante a execução.
