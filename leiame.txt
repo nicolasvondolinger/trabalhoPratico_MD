@@ -112,10 +112,11 @@ Compilação e Execução do Código
 
         Fractal Personalizado:
 
-            Axioma: F
+            Axioma: X
             Nº de Regras: 2
-            Regra: F FXF
-	               X F+F-F-F+F
+            Regra: X XFFX+F+YFFY-F-XFFX
+	               Y YFFY-F-XFFX+F+YFFY
+                   Axioma: X
 
     Observações:
     
